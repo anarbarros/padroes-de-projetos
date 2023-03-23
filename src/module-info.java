@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author anaro
+ *
+ */
+module padroesProjetoJava {
+}
